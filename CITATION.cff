@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: 3D Earthquake Visualization for Vrancea
+date-released: 2026-01-29
+authors:
+  - given-name: Ovidiu
+    family-names: Jianu
+	orcid: https://orcid.org/0000-0002-0699-6553
+  - given-name: Ivano
+    family-names: Matiddi
+	orcid: https://orcid.org/0000-0002-5115-622X
+  - given-name: Alexandru
+    family-names: Marmureanu
+	orcid: https://orcid.org/0000-0002-2181-4471
+  - given-name: Gaetano
+    family-names: Festa
+	orcid: https://orcid.org/0000-0002-2588-8160
+  - given-name: Lauro
+    family-names: Chiaraluce
+	orcid: https://orcid.org/0000-0002-9697-6504
