@@ -16,7 +16,8 @@ authors:
 - family-names: "Chiaraluce"
   given-names: "Lauro"
   orcid: "https://orcid.org/0000-0002-9697-6504"
-title: "Earthquake Distribution Visualization for Vrancea"
+title: "Space time distribution of NFO seimicity"
 version: 1.0.0
 date-released: 2026-01-29
 url: "https://github.com/jianuovidiu/nfo-seismic-distribution"
+
