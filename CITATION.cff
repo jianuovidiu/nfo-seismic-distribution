@@ -16,8 +16,12 @@ authors:
 - family-names: "Chiaraluce"
   given-names: "Lauro"
   orcid: "https://orcid.org/0000-0002-9697-6504"
+- family-names: "Elia"
+  given-names: "Luca"
+  orcid: "https://orcid.org/0000-0002-4553-2380"
 title: "Space time distribution of NFO seimicity"
 version: 1.0.0
 date-released: 2026-01-29
 url: "https://github.com/jianuovidiu/nfo-seismic-distribution"
+
 
